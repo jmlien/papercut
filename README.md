@@ -1,11 +1,11 @@
-
 # papercut
-papercut art in svg format
-
+Creating papercut art in svg format
+![Dog SVG](https://cdn.rawgit.com/jmlien/papercut/246835f9/chinese/zodiac/dog.svg)
 
 * This project contains 
-  1. code that converts black/white png/jpg file to svg format 
-  2. a collection of papercut arts
+  1. code that converts a dual-color bitmap image (png/jpg) to svg format 
+  2. a collection of papercut arts created by the program
+  3. a collection of free svg papercut arts collected from internet
 
 ## Regarding the code
 
