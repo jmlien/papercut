@@ -18,5 +18,5 @@ Creating papercut art in svg format
 * Examples of how the code is used are provide in "examples" folder
   * See *.bat files in the folder
 * For instance, to convert totoro.jpg to svg: 2svg -ct 80 -st 5 -smooth 0.75 .\totoro.jpg
-
+* The input and output images are shown below
 ![Totoro](/tosvg/examples/totoro.jpg) ![Totoro SVG](https://cdn.rawgit.com/jmlien/papercut/175b1e58/tosvg/examples/totoro.svg)
