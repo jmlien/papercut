@@ -1,0 +1,1 @@
+tosvg.exe -ct 80 -st 5 -invert .\goats.jpg

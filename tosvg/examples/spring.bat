@@ -1,0 +1,1 @@
+tosvg.exe -ct 80 -st 8 -smooth 0.75 -invert  .\spring.jpg

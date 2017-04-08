@@ -1,0 +1,1 @@
+tosvg.exe -ct 80 -st 5 -smooth 0.75 .\totoro.jpg

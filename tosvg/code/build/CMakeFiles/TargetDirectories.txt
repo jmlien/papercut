@@ -1,0 +1,3 @@
+/Users/jmlien/Downloads/tosvg/code/build/CMakeFiles/rebuild_cache.dir
+/Users/jmlien/Downloads/tosvg/code/build/CMakeFiles/edit_cache.dir
+/Users/jmlien/Downloads/tosvg/code/build/CMakeFiles/2svg.dir

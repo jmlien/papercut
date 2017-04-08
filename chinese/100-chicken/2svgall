@@ -1,0 +1,6 @@
+#!/bin/bash
+for f in *.png
+do
+    echo "Working on $f"
+    ./2svg -ct 80 -st 8 -smooth 0.5 -invert $f
+done
