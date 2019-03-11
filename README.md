@@ -14,7 +14,7 @@ Creating papercut art in svg format
 * visual studio 2012 solution file is also provided under "vc_files"
 
 ### Use the code
-* **Usage**: 2svg -ct color_intensity_threshold image -st contour_size_threshold -smooth amout -invert
+* **Usage**: 2svg -ct color_intensity_threshold image -st contour_size_threshold -smooth amout -simplify amout -invert
 * Examples of how the code is used are provide in "examples" folder
   * See *.bat files in the folder
 * For instance, to convert totoro.jpg to svg: 2svg -ct 80 -st 5 -smooth 0.75 .\totoro.jpg
