@@ -14,7 +14,12 @@ Creating papercut art in svg format
 * visual studio 2012 solution file is also provided under "vc_files"
 
 ### Use the code
-* **Usage**: 2svg -ct color_intensity_threshold image -st contour_size_threshold -smooth amout -simplify amout -invert
+* **Usage**: 2svg -ct color_intensity_threshold -st contour_size_threshold -smooth amount -simplify amount -invert image
+   * -ct color_intensity_threshold : This value is used to separate black from white.
+   * -st contour_size_threshold : Ignore polygon with less than the "contour_size_threshold" vertices
+   * -smooth amount : Smooth the polygon boundary, larger amount means more smooth
+   * -simplify amount : Simplify the polygons using Douglas Peucker algorithm. Smaller amount means more points are kept. 
+   * -invert : Invert color in the image
 * Examples of how the code is used are provide in "examples" folder
   * See *.bat files in the folder
 * For instance, to convert totoro.jpg to svg: 2svg -ct 80 -st 5 -smooth 0.75 .\totoro.jpg
