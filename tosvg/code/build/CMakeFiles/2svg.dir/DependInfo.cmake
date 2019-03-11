@@ -4,15 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jmlien/Downloads/tosvg/code/CurveCSS.cpp" "/Users/jmlien/Downloads/tosvg/code/build/CMakeFiles/2svg.dir/CurveCSS.cpp.o"
-  "/Users/jmlien/Downloads/tosvg/code/main.cpp" "/Users/jmlien/Downloads/tosvg/code/build/CMakeFiles/2svg.dir/main.cpp.o"
+  "/Users/jmlien/Dropbox/papercut/tosvg/code/CurveCSS.cpp" "/Users/jmlien/Dropbox/papercut/tosvg/code/build3/CMakeFiles/2svg.dir/CurveCSS.cpp.o"
+  "/Users/jmlien/Dropbox/papercut/tosvg/code/main.cpp" "/Users/jmlien/Dropbox/papercut/tosvg/code/build3/CMakeFiles/2svg.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/Cellar/opencv3/3.2.0/include"
-  "/usr/local/Cellar/opencv3/3.2.0/include/opencv"
+  "/usr/local/include"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.
